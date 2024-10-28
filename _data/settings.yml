@@ -1,8 +1,8 @@
 #-------------------------------
 # General Site Settings
-title: Zolan
+title: WTMO
 logo: /main/logo.jpg # You can add own logo.
-description: Zolan is modern minimal theme for Jekyll
+description: WTMO theme for Jekyll
 
 
 #-------------------------------
@@ -26,7 +26,7 @@ instagram: https://instagram.com/ # Add your Instagram handle
 #-------------------------------
 # Instagram Feed
 instafeed: # To enable the instafeed, use the value true. To turn off use the value false.
-instagram-profile: artemsheludko_ # Add instagram username
+instagram-profile: # Add instagram username
 
 
 #-------------------------------
