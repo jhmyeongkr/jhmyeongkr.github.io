@@ -6,13 +6,13 @@ permalink: /talk-posters/
 order: 4
 ---
 
-* <b>명정희</b>, 구호정(2024. 7. 19.), 한국어 수사의문문의 의미와 운율 구조, 한말연구학회. [Handout]
+* <b>명정희</b>, 구호정(2024. 7. 19.), 한국어 수사의문문의 의미와 운율 구조, 한말연구학회. ¶[Handout](https://jhmyeongkr.github.io/documents/%EB%AA%85%EC%A0%95%ED%9D%AC%20%EA%B5%AC%ED%98%B8%EC%A0%95(2024)%20%ED%95%9C%EB%A7%90%EC%97%B0%EA%B5%AC%ED%95%99%ED%9A%8C_%EC%88%98%EC%82%AC%EC%9D%98%EB%AC%B8%EB%AC%B8%EC%9D%98%EB%AF%B8%EC%99%80%EC%9A%B4%EC%9C%A8%EA%B5%AC%EC%A1%B0.pdf)
 
-* <b>명정희</b>, 이정훈(2024. 7. 5.), ‘아무도’와 ‘아무나’의 의미 해석, 우리말학회. [Handout]
+* <b>명정희</b>, 이정훈(2024. 7. 5.), ‘아무도’와 ‘아무나’의 의미 해석, 우리말학회. ¶[Handout](https://jhmyeongkr.github.io/documents/%EB%AA%85%EC%A0%95%ED%9D%AC%20%EC%9D%B4%EC%A0%95%ED%9B%88(2024)%20%EC%9A%B0%EB%A6%AC%EB%A7%90%ED%95%99%ED%9A%8C%EB%B0%9C%ED%91%9C%EB%AC%B8.pdf)
 
-* 이정훈, <b>명정희</b>(2024. 7. 13.), 부정극어와 양태 구문 해석, 한국어문교육연구회. [Handout]
+* 이정훈, <b>명정희</b>(2024. 7. 13.), 부정극어와 양태 구문 해석, 한국어문교육연구회. ¶[Handout](https://jhmyeongkr.github.io/documents/%EC%9D%B4%EC%A0%95%ED%9B%88%20%EB%AA%85%EC%A0%95%ED%9D%AC(2024)%20%EC%96%B4%EB%AC%B8%EA%B5%90%EC%9C%A1.pdf)
 
-* <b>명정희</b>(2024. 5. 18.), 한국어 감탄법의 실현 양상과 표현적 의미 연구: 감정 표현 구문을 중심으로, 한국어의미학회. [Handout]
+* <b>명정희</b>(2024. 5. 18.), 한국어 감탄법의 실현 양상과 표현적 의미 연구: 감정 표현 구문을 중심으로, 한국어의미학회. ¶[Handout](https://jhmyeongkr.github.io/documents/%EB%AA%85%EC%A0%95%ED%9D%AC(2024)%20%EA%B0%90%ED%83%84%EB%B2%95.pdf)
 
 * <b>명정희</b>, 구호정(2024. 1. 19.), ‘-고 말-’ 보조용언 구문의 통합 관계: 실험 언어학적 접근, 한국어문교육연구회. 
 

@@ -27,20 +27,32 @@
               <!-- <li class="nav__item">
                 <a href="{{site.baseurl}}/" class="nav__link">Home</a>
               </li> -->
-              {% for page in site.pages %}
-                {% unless page.name == 'tags.html' or page.name == '404.html' %}
-              {% if page.title %}
+              <!-- {% for node in site.pages %}
+                {% unless node.name == 'tags.html' or node.name == '404.html' %}
+              {% if node.title %}
               <li class="nav__item">
-                <a href="{{ page.url | prepend: site.baseurl }}" class="nav__link">{{ page.title }}</a>
+                <a href="{{ node.url | prepend: site.baseurl }}" 
+                  class="nav__link" 
+                  style="{% if node.url == page.url%}color: #670211{% endif %}">{{ node.title }}
+                </a>
+              </li>
+              {% endif %}
+                {% endunless %}
+              {% endfor %} -->
+
+              {% assign sorted_pages = site.pages | sort:"order" %}
+              {% for node in sorted_pages %}
+                {% unless node.name == 'tags.html' or node.name == '404.html' %}
+              {% if node.title %}
+              <li class="nav__item">
+                <a href="{{ node.url | prepend: site.baseurl }}" 
+                  class="nav__link" 
+                  style="{% if node.url == page.url%}color: #670211{% endif %}">{{ node.title }}
+                </a>
               </li>
               {% endif %}
                 {% endunless %}
               {% endfor %}
-
-              <!-- {% assign sorted_pages = site.pages | sort:"order" %}
-              {% for node in sorted_pages %}
-                <li><a href="{{node.url}}">{{node.title}}</a></li>
-              {% endfor %} -->
             </ul>
 
           </div>
