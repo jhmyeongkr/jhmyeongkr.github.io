@@ -37,3 +37,7 @@ img.zoom-img {
 .zoom-overlay-transitioning {
   cursor: default;
 }
+
+img.no-click {
+  pointer-events: none;
+}

@@ -6,9 +6,6 @@ permalink: /contact/
 order: 2
 ---
 <div class="hero-small col col-5 col-t-10 last-item">
-  <!-- <div style="width: 20px; height: 20px; background-color: black; position: absolute"> -->
-    <img style="width: 60px; height: 60px; margin-top: -40px; position: absolute" src="{{site.baseurl}}/images/svg/line1.svg" alt="My Happy SVG" />
-  <!-- </div>  -->
   <div class="container hero-container">
     <h1 class="hero__title" style="font-size: 25px">명정희(Myeong JeongHee)</h1>
   </div>
@@ -23,7 +20,7 @@ order: 2
       </div>
       <div>
         <div class="hero__image">
-          <img style="height: 120px; width: 100px" src="{{site.baseurl}}/images/{{ site.data.settings.author.image-s }}" alt="">
+          <img style="height: 120px; width: 105px" src="{{site.baseurl}}/images/{{ site.data.settings.author.image-s }}" class="no-click" alt="">
         </div>
       </div>
   </div>

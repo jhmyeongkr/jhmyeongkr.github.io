@@ -11,20 +11,33 @@ order: 1
     <div class="row">
       <div class="col col-8 col-t-12 last-item">
         <div class="hero__content">
-          <p class="hero__subtitle" style="font-size: 15px; margin-bottom: 10px">
-            안녕하세요! 저는 한국어 현대문법론(통사론과 의미화용론)을 연구하고 있는 한국어학자입니
-다. 최근 저는 음성 실험을 바탕으로 한국어 문장구조와 의미 그리고 운율의 접면을 다루는 
-것을 주로 연구하고 있습니다. 
+          <p class="hero__subtitle" style="font-size: 15px; margin-bottom: 0px">
+            안녕하세요! 저는 한국어 현대문법론(통사론과 의미화용론)을 연구하는 한국어 학자입니다.
           </p>
-          <p class="hero__subtitle" style="font-size: 15px; margin-bottom: 30px">
-            Hello! I am a Korean linguist specializing in modern grammar, with a focus on 
-syntax and semantics-pragmatics. My recent research centers around exploring the 
-intersection of sentence structure, meaning, and prosody in Korean, particularly 
-through speech experiments. [My CV]
+          <p class="hero__subtitle" style="font-size: 15px; margin-bottom: 0px">
+            최근에는 음성 실험을 바탕으로,
           </p>
-          <p class="hero__subtitle" style="font-size: 15px; font-weight: bold; margin-bottom: 10px">
-            Brief Bio
+          <p class="hero__subtitle" style="font-size: 15px; margin-bottom: 15px">
+             한국어 문장구조와 의미 그리고 운율의 접면을 다루는 것을 주로 연구하고 있습니다.
           </p>
+
+          <p class="hero__subtitle" style="font-size: 15px; margin-bottom: 0px">
+            Hello! I am a Korean linguist specializing in modern grammar,
+          </p>
+          <p class="hero__subtitle" style="font-size: 15px; margin-bottom: 0px">
+            with a focus on syntax and semantics-pragmatics.
+          </p>
+          <p class="hero__subtitle" style="font-size: 15px; margin-bottom: 0px">
+            My recent research centers around exploring the intersection
+          </p>
+          <p class="hero__subtitle" style="font-size: 15px; margin-bottom: 0px">
+            of sentence structure, meaning, and prosody in Korean,
+          </p>
+          <p class="hero__subtitle" style="font-size: 15px; margin-bottom: 40px">
+             particularly through speech experiments.
+          </p>
+
+
           <p class="hero__normal_content" style="font-size: 15px; margin-bottom: 0px">
             학술연구교수, 서강대학교 언어정보연구소, 2024. 6. - 현재
           </p>
@@ -46,7 +59,7 @@ through speech experiments. [My CV]
           <p class="hero__normal_content" style="font-size: 15px; margin-bottom: 0px">
             대우전임강사, 서강대학교 한국어교육원, 2015. 9. - 2019. 12.
           </p>
-          <p class="hero__normal_content" style="font-size: 15px; margin-bottom: 30px">
+          <p class="hero__normal_content" style="font-size: 15px; margin-bottom: 15px">
             시간강사, 신안산대학교 교양과, 2015. 3. - 2016. 2.
           </p>
           <p class="hero__normal_content" style="font-size: 15px; margin-bottom: 0px">
