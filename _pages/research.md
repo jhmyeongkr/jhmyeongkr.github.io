@@ -7,11 +7,9 @@ order: 3
 ---
 
 ### 2024
-* [<b>명정희</b>, 백인영(2024), ‘뭐 그렇게’가 포함된 수사의문문의 의미 연구, 국어학 110권, 국어학
-회.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003093824){:target="_blank"}
+* [<b>명정희</b>, 백인영(2024), ‘뭐 그렇게’가 포함된 수사의문문의 의미 연구, 국어학 110권, 국어학회.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003093824){:target="_blank"}
 
-* [오경숙, <b>명정희</b>(2024), 중국인 학습자의 한국어 수사의문문 이해에 대한 실험 화용적 연구: 
-‘의문사+그렇게’류 의문문의 반어적 용법을 중심으로, 이중언어학 97호, 이중언어학회.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003120930){:target="_blank"}
+* [오경숙, <b>명정희</b>(2024), 한국어 학습자의 반어적 수사의문문 이해에 대한 실험 화용적 연구, 이중언어학 97호, 이중언어학회.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003120930){:target="_blank"}
 
 * [<b>명정희</b>(2024), 술어의 다의성과 사건 구조: ‘가다’와 ‘-어 가다’ 구문의 관계를 중심으로, 언어학 98호, 사단법인 한국언어학회.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003075311){:target="_blank"}
 

@@ -45,7 +45,7 @@ order: 1
             대우교수, 서울사이버대학교 한국어문화학과, 2024. 3. - 현재
           </p>
           <p class="hero__normal_content" style="font-size: 15px; margin-bottom: 0px">
-            강사, 서강대학교 국어국문학과, 2022-현재
+            강사, 서강대학교 국어국문학과, 2022. 9. - 현재
           </p>
           <p class="hero__normal_content" style="font-size: 15px; margin-bottom: 0px">
             강사, 가톨릭대학교 한국어교육융복합전공, 2022. 9. - 2024. 8.

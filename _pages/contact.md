@@ -5,7 +5,7 @@ permalink: /contact/
 # image: 01.jpg
 order: 2
 ---
-<div class="hero-small col col-5 col-t-10 last-item">
+<div class="hero-small col col-5 col-t-12 last-item">
   <div class="container hero-container">
     <h1 class="hero__title" style="font-size: 25px">명정희(Myeong JeongHee)</h1>
   </div>
