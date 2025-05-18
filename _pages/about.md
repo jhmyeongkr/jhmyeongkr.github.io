@@ -104,7 +104,7 @@ order: 1
             학사, 국어국문학, 법학, 서강대학교, 2007-2011.
           </p>
           <p class="hero__normal_content" style="font-size: 15px; margin-bottom: 0px">
-             (BA in Korean Linguistics, Sogang University)
+             (BA in Korean Language and Literature, Law, Sogang University)
           </p>
         </div>
       </div>
