@@ -33,10 +33,3 @@ tag_permalink_style:  pretty
 sass:
   sass_dir: _sass
   style: compressed
-
-plugins:
-  - jekyll-maps
-
-maps:
-  google:
-    api_key: AIzaSyCw8VJMvdCQJGnWN7Guo1X8DbrkJH-aLDM 
