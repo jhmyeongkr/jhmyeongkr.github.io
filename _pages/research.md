@@ -7,12 +7,7 @@ order: 3
 ---
 
 ### 2025
-<div style="font-size: 1.17em;">
-<a href="https://www-kci-go-kr.libproxy.sogang.ac.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003187292" target="_blank">
-⦁ <b>명정희</b>, 구호정(2025), 한국어 수사의문문의 의미와 운율: 음성 산출 및 지각 실험 연구, <i>언어</i> 50(1), 한국언어학회, 231-266.
-</a>
-</div>
-<br/>
+* [<b>명정희</b>, 구호정(2025), 한국어 수사의문문의 의미와 운율: 음성 산출 및 지각 실험 연구, 언어 50(1), 한국언어학회, 231-266.](https://www-kci-go-kr.libproxy.sogang.ac.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003187292){:target="_blank"}
 
 
 ### 2024
