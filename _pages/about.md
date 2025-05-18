@@ -37,7 +37,9 @@ order: 1
              particularly through speech experiments.
           </p>
 
-
+          <b class="hero__subtitle" style="font-size: 20px; margin-bottom: 0px">
+             주요 경력(Professional Experience)
+          </b>
           <p class="hero__normal_content" style="font-size: 15px; margin-bottom: 0px">
             학술연구교수, 서강대학교 언어정보연구소, 2024. 6. - 현재
           </p>
@@ -62,6 +64,30 @@ order: 1
           <p class="hero__normal_content" style="font-size: 15px; margin-bottom: 15px">
             시간강사, 신안산대학교 교양과, 2015. 3. - 2016. 2.
           </p>
+
+          <b class="hero__subtitle" style="font-size: 20px; margin-bottom: 0px">
+             학회 활동(Academic Service)
+          </b>
+          <p class="hero__normal_content" style="font-size: 15px; margin-bottom: 0px">
+            동악어문학회(Dong-ak Society of Language and Literature) 편집위원, 2025. 3. 1. – 2027. 2. 28.
+          </p>
+          <p class="hero__normal_content" style="font-size: 15px; margin-bottom: 15px">
+            현대문법학회(The Society of Modern Grammar) 이사, 2024. 3. 1. – 2026. 2. 28.
+          </p>
+
+          <b class="hero__subtitle" style="font-size: 20px; margin-bottom: 0px">
+             주요 수상(Honors and Awards)
+          </b>
+          <p class="hero__normal_content" style="font-size: 15px; margin-bottom: 0px">
+            동숭학술논문상, 2024. 11. 1.
+          </p>
+          <p class="hero__normal_content" style="font-size: 15px; margin-bottom: 15px">
+            일석국어학연구장려상, 2022. 12. 16.
+          </p>
+
+          <b class="hero__subtitle" style="font-size: 20px; margin-bottom: 0px">
+             학력(Academic Background)
+          </b>
           <p class="hero__normal_content" style="font-size: 15px; margin-bottom: 0px">
             박사, 국어학, 서강대학교, 2014-2021.
           </p>
